@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).AssemblyInfo.cs
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\New folder (2)\bin\Debug\net10.0\New folder (2).exe
+C:\Users\USER\Downloads\New folder (2)\bin\Debug\net10.0\New folder (2).deps.json
+C:\Users\USER\Downloads\New folder (2)\bin\Debug\net10.0\New folder (2).runtimeconfig.json
+C:\Users\USER\Downloads\New folder (2)\bin\Debug\net10.0\New folder (2).dll
+C:\Users\USER\Downloads\New folder (2)\bin\Debug\net10.0\New folder (2).pdb
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).dll
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\refint\New folder (2).dll
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).pdb
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\New folder (2).genruntimeconfig.cache
+C:\Users\USER\Downloads\New folder (2)\obj\Debug\net10.0\ref\New folder (2).dll
